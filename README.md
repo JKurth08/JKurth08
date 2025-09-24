@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Jack Kurth
-- 👀 I’m interested in compiuter science 
-- 🌱 I’m currently learning java and python--I am currently learning projects related to AI
+- 👀 3rd Computer Sci + Cyber Security Minor @ MTU 
+- 🌱 Learning; Java, Python, HTML/CSS, PHP, Bash, SQL
 -  I’m looking to collaborate on any projects related to python and java that will enhance my skills in these areas
-- 📫 How to reach me -> emial: jmjkurth@icloud.com
+-  Seeking Summer internship 2026
+- 📫 How to reach me -> emial: jmkurth@mtu.edu
 
 <!---
 JKurth08/JKurth08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
