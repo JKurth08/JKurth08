@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jack Kurth
 - 👀 3rd Computer Sci + Cyber Security Minor @ MTU 
-- 🌱 Learning; Java, Python, HTML/CSS, PHP, Bash, SQL
+- 🌱 Profficient in: Java, Python, HTML/CSS, Javascript (React), tsx, PHP, Bash, SQL, C, C++, 
 -  I’m looking to collaborate on any projects related to python and java that will enhance my skills in these areas
 -  Seeking Summer internship 2026
 - 📫 How to reach me -> emial: jmkurth@mtu.edu
