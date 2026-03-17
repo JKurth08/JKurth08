@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Jack Kurth
-- 👀 3rd year Computer Sci + Cyber Security Minor @ MIchigan Technological University 
-- 🌱 Profficient in: Java, Python, HTML/CSS, Javascript (React), tsx, PHP, Bash, SQL, C, C++, 
+- 👀 3rd year Computer Sci + Cyber Security Minor @ Michigan Technological University 
+- 🌱 Profficient in: Java, Python, HTML/CSS, Javascript (React), PHP, Bash, SQL, C, C++, 
 -  I’m looking to collaborate on any projects related any of these languages that will enhance my skills in these areas
--  Seeking Summer internship 2026
 - 📫 How to reach me -> emial: jmkurth@mtu.edu
 
 <!---
